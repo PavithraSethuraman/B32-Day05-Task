@@ -228,8 +228,6 @@ function getLengthOfWord(word1){
    }
    var lengthOfWord= getLengthOfWord("GUVI")
    var lengthOfWord1= getLengthOfWord("")
-
-
 //    var lengthOfWord2= getLengthOfWord( )
    var lengthOfWord3= getLengthOfWord(9)
    console.log(lengthOfWord)
